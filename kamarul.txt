@@ -1,7 +1,3 @@
 testing conflict percubaan konflik
-<<<<<<< HEAD
-
 test conflict
 test test test
-=======
->>>>>>> parent of 4012b83... edit
